@@ -51,7 +51,6 @@ public class MainActivity extends AppCompatActivity {
                 }
 
                 intent.putExtra("personne", p);
-                System.out.println("setResult");
                 setResult(RESULT_OK, intent);
                 finish();
             }

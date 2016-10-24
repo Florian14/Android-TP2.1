@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">TP1</string>
+    <string name="app_name">TP2.1</string>
     <string name="reset">Remettre à zéro</string>
     <string name="addComponent">Saisir un numéro</string>
     <string-array name="departements">
